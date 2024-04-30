@@ -1,10 +1,12 @@
 Installation
+
 To run this project locally, follow these steps:
 
 Prerequisites
-Python (3.x recommended),
-pip (Python package installer),,
-Virtual environment (recommended),
+
+Python (3.x recommended)  
+pip (Python package installer)  
+Virtual environment (recommended)  
 
 Clone the Repository
 git clone https://github.com/username/repository.git
