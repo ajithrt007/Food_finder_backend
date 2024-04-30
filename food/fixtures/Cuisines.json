@@ -1,0 +1,1024 @@
+[
+    {
+        "model": "food.Cuisines",
+        "pk": 1,
+        "fields": {
+            "cuisine": "French"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 2,
+        "fields": {
+            "cuisine": "Japanese"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 3,
+        "fields": {
+            "cuisine": "Desserts"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 4,
+        "fields": {
+            "cuisine": "Seafood"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 5,
+        "fields": {
+            "cuisine": "Asian"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 6,
+        "fields": {
+            "cuisine": "Filipino"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 7,
+        "fields": {
+            "cuisine": "Indian"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 8,
+        "fields": {
+            "cuisine": "Sushi"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 9,
+        "fields": {
+            "cuisine": "Korean"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 10,
+        "fields": {
+            "cuisine": "Chinese"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 11,
+        "fields": {
+            "cuisine": "European"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 12,
+        "fields": {
+            "cuisine": "Mexican"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 13,
+        "fields": {
+            "cuisine": "American"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 14,
+        "fields": {
+            "cuisine": "Ice Cream"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 15,
+        "fields": {
+            "cuisine": "Cafe"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 16,
+        "fields": {
+            "cuisine": "Italian"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 17,
+        "fields": {
+            "cuisine": "Pizza"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 18,
+        "fields": {
+            "cuisine": "Bakery"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 19,
+        "fields": {
+            "cuisine": "Mediterranean"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 20,
+        "fields": {
+            "cuisine": "Fast Food"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 21,
+        "fields": {
+            "cuisine": "Brazilian"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 22,
+        "fields": {
+            "cuisine": "Arabian"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 23,
+        "fields": {
+            "cuisine": "Bar Food"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 24,
+        "fields": {
+            "cuisine": "Grill"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 25,
+        "fields": {
+            "cuisine": "International"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 26,
+        "fields": {
+            "cuisine": "Peruvian"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 27,
+        "fields": {
+            "cuisine": "Latin American"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 28,
+        "fields": {
+            "cuisine": "Burger"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 29,
+        "fields": {
+            "cuisine": "Juices"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 30,
+        "fields": {
+            "cuisine": "Healthy Food"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 31,
+        "fields": {
+            "cuisine": "Beverages"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 32,
+        "fields": {
+            "cuisine": "Lebanese"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 33,
+        "fields": {
+            "cuisine": "Sandwich"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 34,
+        "fields": {
+            "cuisine": "Steak"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 35,
+        "fields": {
+            "cuisine": "BBQ"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 36,
+        "fields": {
+            "cuisine": "Gourmet Fast Food"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 37,
+        "fields": {
+            "cuisine": "Mineira"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 38,
+        "fields": {
+            "cuisine": "North Eastern"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 39,
+        "fields": {
+            "cuisine": ""
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 40,
+        "fields": {
+            "cuisine": "Coffee and Tea"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 41,
+        "fields": {
+            "cuisine": "Vegetarian"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 42,
+        "fields": {
+            "cuisine": "Tapas"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 43,
+        "fields": {
+            "cuisine": "Breakfast"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 44,
+        "fields": {
+            "cuisine": "Diner"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 45,
+        "fields": {
+            "cuisine": "Southern"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 46,
+        "fields": {
+            "cuisine": "Southwestern"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 47,
+        "fields": {
+            "cuisine": "Spanish"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 48,
+        "fields": {
+            "cuisine": "Argentine"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 49,
+        "fields": {
+            "cuisine": "Caribbean"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 50,
+        "fields": {
+            "cuisine": "German"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 51,
+        "fields": {
+            "cuisine": "Vietnamese"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 52,
+        "fields": {
+            "cuisine": "Thai"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 53,
+        "fields": {
+            "cuisine": "Modern Australian"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 54,
+        "fields": {
+            "cuisine": "Teriyaki"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 55,
+        "fields": {
+            "cuisine": "Cajun"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 56,
+        "fields": {
+            "cuisine": "Canadian"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 57,
+        "fields": {
+            "cuisine": "Tex-Mex"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 58,
+        "fields": {
+            "cuisine": "Middle Eastern"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 59,
+        "fields": {
+            "cuisine": "Greek"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 60,
+        "fields": {
+            "cuisine": "Bubble Tea"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 61,
+        "fields": {
+            "cuisine": "Tea"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 62,
+        "fields": {
+            "cuisine": "Australian"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 63,
+        "fields": {
+            "cuisine": "Fusion"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 64,
+        "fields": {
+            "cuisine": "Cuban"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 65,
+        "fields": {
+            "cuisine": "Hawaiian"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 66,
+        "fields": {
+            "cuisine": "Salad"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 67,
+        "fields": {
+            "cuisine": "Irish"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 68,
+        "fields": {
+            "cuisine": "New American"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 69,
+        "fields": {
+            "cuisine": "Soul Food"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 70,
+        "fields": {
+            "cuisine": "Turkish"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 71,
+        "fields": {
+            "cuisine": "Pub Food"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 72,
+        "fields": {
+            "cuisine": "Persian"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 73,
+        "fields": {
+            "cuisine": "Continental"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 74,
+        "fields": {
+            "cuisine": "Singaporean"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 75,
+        "fields": {
+            "cuisine": "Malay"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 76,
+        "fields": {
+            "cuisine": "Cantonese"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 77,
+        "fields": {
+            "cuisine": "Dim Sum"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 78,
+        "fields": {
+            "cuisine": "Western"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 79,
+        "fields": {
+            "cuisine": "Finger Food"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 80,
+        "fields": {
+            "cuisine": "British"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 81,
+        "fields": {
+            "cuisine": "Deli"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 82,
+        "fields": {
+            "cuisine": "Indonesian"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 83,
+        "fields": {
+            "cuisine": "North Indian"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 84,
+        "fields": {
+            "cuisine": "Mughlai"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 85,
+        "fields": {
+            "cuisine": "Biryani"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 86,
+        "fields": {
+            "cuisine": "South Indian"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 87,
+        "fields": {
+            "cuisine": "Pakistani"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 88,
+        "fields": {
+            "cuisine": "Afghani"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 89,
+        "fields": {
+            "cuisine": "Hyderabadi"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 90,
+        "fields": {
+            "cuisine": "Rajasthani"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 91,
+        "fields": {
+            "cuisine": "Street Food"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 92,
+        "fields": {
+            "cuisine": "Goan"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 93,
+        "fields": {
+            "cuisine": "African"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 94,
+        "fields": {
+            "cuisine": "Portuguese"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 95,
+        "fields": {
+            "cuisine": "Gujarati"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 96,
+        "fields": {
+            "cuisine": "Armenian"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 97,
+        "fields": {
+            "cuisine": "Mithai"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 98,
+        "fields": {
+            "cuisine": "Maharashtrian"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 99,
+        "fields": {
+            "cuisine": "Modern Indian"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 100,
+        "fields": {
+            "cuisine": "Charcoal Grill"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 101,
+        "fields": {
+            "cuisine": "Malaysian"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 102,
+        "fields": {
+            "cuisine": "Burmese"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 103,
+        "fields": {
+            "cuisine": "Chettinad"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 104,
+        "fields": {
+            "cuisine": "Parsi"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 105,
+        "fields": {
+            "cuisine": "Tibetan"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 106,
+        "fields": {
+            "cuisine": "Raw Meats"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 107,
+        "fields": {
+            "cuisine": "Kerala"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 108,
+        "fields": {
+            "cuisine": "Belgian"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 109,
+        "fields": {
+            "cuisine": "Kashmiri"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 110,
+        "fields": {
+            "cuisine": "South American"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 111,
+        "fields": {
+            "cuisine": "Bengali"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 112,
+        "fields": {
+            "cuisine": "Iranian"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 113,
+        "fields": {
+            "cuisine": "Lucknowi"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 114,
+        "fields": {
+            "cuisine": "Awadhi"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 115,
+        "fields": {
+            "cuisine": "Nepalese"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 116,
+        "fields": {
+            "cuisine": "Drinks Only"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 117,
+        "fields": {
+            "cuisine": "Oriya"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 118,
+        "fields": {
+            "cuisine": "Bihari"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 119,
+        "fields": {
+            "cuisine": "Assamese"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 120,
+        "fields": {
+            "cuisine": "Andhra"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 121,
+        "fields": {
+            "cuisine": "Mangalorean"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 122,
+        "fields": {
+            "cuisine": "Malwani"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 123,
+        "fields": {
+            "cuisine": "Cuisine Varies"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 124,
+        "fields": {
+            "cuisine": "Moroccan"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 125,
+        "fields": {
+            "cuisine": "Naga"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 126,
+        "fields": {
+            "cuisine": "Sri Lankan"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 127,
+        "fields": {
+            "cuisine": "Peranakan"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 128,
+        "fields": {
+            "cuisine": "Sunda"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 129,
+        "fields": {
+            "cuisine": "Ramen"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 130,
+        "fields": {
+            "cuisine": "Kiwi"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 131,
+        "fields": {
+            "cuisine": "Asian Fusion"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 132,
+        "fields": {
+            "cuisine": "Taiwanese"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 133,
+        "fields": {
+            "cuisine": "Fish and Chips"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 134,
+        "fields": {
+            "cuisine": "Contemporary"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 135,
+        "fields": {
+            "cuisine": "Scottish"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 136,
+        "fields": {
+            "cuisine": "Curry"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 137,
+        "fields": {
+            "cuisine": "Patisserie"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 138,
+        "fields": {
+            "cuisine": "South African"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 139,
+        "fields": {
+            "cuisine": "Durban"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 140,
+        "fields": {
+            "cuisine": "Kebab"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 141,
+        "fields": {
+            "cuisine": "Turkish Pizza"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 142,
+        "fields": {
+            "cuisine": "Izgara"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 143,
+        "fields": {
+            "cuisine": "World Cuisine"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 144,
+        "fields": {
+            "cuisine": "D\u00ed_ner"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 145,
+        "fields": {
+            "cuisine": "Restaurant Cafe"
+        }
+    },
+    {
+        "model": "food.Cuisines",
+        "pk": 146,
+        "fields": {
+            "cuisine": "B\u00ed_rek"
+        }
+    }
+]

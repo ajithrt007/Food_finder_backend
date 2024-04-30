@@ -1,0 +1,86 @@
+[
+    {
+        "model": "food.Currency",
+        "pk": 1,
+        "fields": {
+            "currency": "Botswana Pula(P)"
+        }
+    },
+    {
+        "model": "food.Currency",
+        "pk": 2,
+        "fields": {
+            "currency": "Brazilian Real(R$)"
+        }
+    },
+    {
+        "model": "food.Currency",
+        "pk": 3,
+        "fields": {
+            "currency": "Dollar($)"
+        }
+    },
+    {
+        "model": "food.Currency",
+        "pk": 4,
+        "fields": {
+            "currency": "Emirati Diram(AED)"
+        }
+    },
+    {
+        "model": "food.Currency",
+        "pk": 5,
+        "fields": {
+            "currency": "Indian Rupees(Rs.)"
+        }
+    },
+    {
+        "model": "food.Currency",
+        "pk": 6,
+        "fields": {
+            "currency": "Indonesian Rupiah(IDR)"
+        }
+    },
+    {
+        "model": "food.Currency",
+        "pk": 7,
+        "fields": {
+            "currency": "NewZealand($)"
+        }
+    },
+    {
+        "model": "food.Currency",
+        "pk": 8,
+        "fields": {
+            "currency": "Pounds(\u008c\u00a3)"
+        }
+    },
+    {
+        "model": "food.Currency",
+        "pk": 9,
+        "fields": {
+            "currency": "Qatari Rial(QR)"
+        }
+    },
+    {
+        "model": "food.Currency",
+        "pk": 10,
+        "fields": {
+            "currency": "Rand(R)"
+        }
+    },
+    {
+        "model": "food.Currency",
+        "pk": 11,
+        "fields": {
+            "currency": "Sri Lankan Rupee(LKR)"
+        }
+    },
+    {
+        "model": "food.Currency",
+        "pk": 12,
+        "fields": {
+            "currency": "Turkish Lira(TL)"
+        }
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "model": "food.Country",
+        "pk": 1,
+        "fields": {
+            "country_code": "1",
+            "country": "India"
+        }
+    },
+    {
+        "model": "food.Country",
+        "pk": 2,
+        "fields": {
+            "country_code": "14",
+            "country": "Australia"
+        }
+    },
+    {
+        "model": "food.Country",
+        "pk": 3,
+        "fields": {
+            "country_code": "30",
+            "country": "Brazil"
+        }
+    },
+    {
+        "model": "food.Country",
+        "pk": 4,
+        "fields": {
+            "country_code": "37",
+            "country": "Canada"
+        }
+    },
+    {
+        "model": "food.Country",
+        "pk": 5,
+        "fields": {
+            "country_code": "94",
+            "country": "Indonesia"
+        }
+    },
+    {
+        "model": "food.Country",
+        "pk": 6,
+        "fields": {
+            "country_code": "148",
+            "country": "New Zealand"
+        }
+    },
+    {
+        "model": "food.Country",
+        "pk": 7,
+        "fields": {
+            "country_code": "162",
+            "country": "Phillipines"
+        }
+    },
+    {
+        "model": "food.Country",
+        "pk": 8,
+        "fields": {
+            "country_code": "166",
+            "country": "Qatar"
+        }
+    },
+    {
+        "model": "food.Country",
+        "pk": 9,
+        "fields": {
+            "country_code": "184",
+            "country": "Singapore"
+        }
+    },
+    {
+        "model": "food.Country",
+        "pk": 10,
+        "fields": {
+            "country_code": "189",
+            "country": "South Africa"
+        }
+    },
+    {
+        "model": "food.Country",
+        "pk": 11,
+        "fields": {
+            "country_code": "191",
+            "country": "Sri Lanka"
+        }
+    },
+    {
+        "model": "food.Country",
+        "pk": 12,
+        "fields": {
+            "country_code": "208",
+            "country": "Turkey"
+        }
+    },
+    {
+        "model": "food.Country",
+        "pk": 13,
+        "fields": {
+            "country_code": "214",
+            "country": "UAE"
+        }
+    },
+    {
+        "model": "food.Country",
+        "pk": 14,
+        "fields": {
+            "country_code": "215",
+            "country": "United Kingdom"
+        }
+    },
+    {
+        "model": "food.Country",
+        "pk": 15,
+        "fields": {
+            "country_code": "216",
+            "country": "United States"
+        }
+    }
+]

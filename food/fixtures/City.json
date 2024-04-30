@@ -1,0 +1,1130 @@
+[
+    {
+        "model": "food.City",
+        "pk": 1,
+        "fields": {
+            "city": "Makati City",
+            "city_code": "1"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 2,
+        "fields": {
+            "city": "Mandaluyong City",
+            "city_code": "2"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 3,
+        "fields": {
+            "city": "Pasay City",
+            "city_code": "3"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 4,
+        "fields": {
+            "city": "Pasig City",
+            "city_code": "4"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 5,
+        "fields": {
+            "city": "Quezon City",
+            "city_code": "5"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 6,
+        "fields": {
+            "city": "San Juan City",
+            "city_code": "6"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 7,
+        "fields": {
+            "city": "Santa Rosa",
+            "city_code": "7"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 8,
+        "fields": {
+            "city": "Tagaytay City",
+            "city_code": "8"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 9,
+        "fields": {
+            "city": "Taguig City",
+            "city_code": "9"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 10,
+        "fields": {
+            "city": "Bras\u00cc_lia",
+            "city_code": "10"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 11,
+        "fields": {
+            "city": "Rio de Janeiro",
+            "city_code": "11"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 12,
+        "fields": {
+            "city": "S\u00cc\u00a3o Paulo",
+            "city_code": "12"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 13,
+        "fields": {
+            "city": "Albany",
+            "city_code": "13"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 14,
+        "fields": {
+            "city": "Armidale",
+            "city_code": "14"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 15,
+        "fields": {
+            "city": "Athens",
+            "city_code": "15"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 16,
+        "fields": {
+            "city": "Augusta",
+            "city_code": "16"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 17,
+        "fields": {
+            "city": "Balingup",
+            "city_code": "17"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 18,
+        "fields": {
+            "city": "Beechworth",
+            "city_code": "18"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 19,
+        "fields": {
+            "city": "Boise",
+            "city_code": "19"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 20,
+        "fields": {
+            "city": "Cedar Rapids/Iowa City",
+            "city_code": "20"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 21,
+        "fields": {
+            "city": "Chatham-Kent",
+            "city_code": "21"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 22,
+        "fields": {
+            "city": "Clatskanie",
+            "city_code": "22"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 23,
+        "fields": {
+            "city": "Cochrane",
+            "city_code": "23"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 24,
+        "fields": {
+            "city": "Columbus",
+            "city_code": "24"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 25,
+        "fields": {
+            "city": "Consort",
+            "city_code": "25"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 26,
+        "fields": {
+            "city": "Dalton",
+            "city_code": "26"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 27,
+        "fields": {
+            "city": "Davenport",
+            "city_code": "27"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 28,
+        "fields": {
+            "city": "Des Moines",
+            "city_code": "28"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 29,
+        "fields": {
+            "city": "Dicky Beach",
+            "city_code": "29"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 30,
+        "fields": {
+            "city": "Dubuque",
+            "city_code": "30"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 31,
+        "fields": {
+            "city": "East Ballina",
+            "city_code": "31"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 32,
+        "fields": {
+            "city": "Fernley",
+            "city_code": "32"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 33,
+        "fields": {
+            "city": "Flaxton",
+            "city_code": "33"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 34,
+        "fields": {
+            "city": "Forrest",
+            "city_code": "34"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 35,
+        "fields": {
+            "city": "Gainesville",
+            "city_code": "35"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 36,
+        "fields": {
+            "city": "Hepburn Springs",
+            "city_code": "36"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 37,
+        "fields": {
+            "city": "Huskisson",
+            "city_code": "37"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 38,
+        "fields": {
+            "city": "Inverloch",
+            "city_code": "38"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 39,
+        "fields": {
+            "city": "Lakes Entrance",
+            "city_code": "39"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 40,
+        "fields": {
+            "city": "Lakeview",
+            "city_code": "40"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 41,
+        "fields": {
+            "city": "Lincoln",
+            "city_code": "41"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 42,
+        "fields": {
+            "city": "Lorn",
+            "city_code": "42"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 43,
+        "fields": {
+            "city": "Macedon",
+            "city_code": "43"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 44,
+        "fields": {
+            "city": "Macon",
+            "city_code": "44"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 45,
+        "fields": {
+            "city": "Mayfield",
+            "city_code": "45"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 46,
+        "fields": {
+            "city": "Mc Millan",
+            "city_code": "46"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 47,
+        "fields": {
+            "city": "Middleton Beach",
+            "city_code": "47"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 48,
+        "fields": {
+            "city": "Miller",
+            "city_code": "48"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 49,
+        "fields": {
+            "city": "Monroe",
+            "city_code": "49"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 50,
+        "fields": {
+            "city": "Montville",
+            "city_code": "50"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 51,
+        "fields": {
+            "city": "Ojo Caliente",
+            "city_code": "51"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 52,
+        "fields": {
+            "city": "Orlando",
+            "city_code": "52"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 53,
+        "fields": {
+            "city": "Palm Cove",
+            "city_code": "53"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 54,
+        "fields": {
+            "city": "Paynesville",
+            "city_code": "54"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 55,
+        "fields": {
+            "city": "Penola",
+            "city_code": "55"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 56,
+        "fields": {
+            "city": "Pensacola",
+            "city_code": "56"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 57,
+        "fields": {
+            "city": "Phillip Island",
+            "city_code": "57"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 58,
+        "fields": {
+            "city": "Pocatello",
+            "city_code": "58"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 59,
+        "fields": {
+            "city": "Potrero",
+            "city_code": "59"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 60,
+        "fields": {
+            "city": "Princeton",
+            "city_code": "60"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 61,
+        "fields": {
+            "city": "Rest of Hawaii",
+            "city_code": "61"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 62,
+        "fields": {
+            "city": "Savannah",
+            "city_code": "62"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 63,
+        "fields": {
+            "city": "Singapore",
+            "city_code": "63"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 64,
+        "fields": {
+            "city": "Sioux City",
+            "city_code": "64"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 65,
+        "fields": {
+            "city": "Tampa Bay",
+            "city_code": "65"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 66,
+        "fields": {
+            "city": "Tanunda",
+            "city_code": "66"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 67,
+        "fields": {
+            "city": "Trentham East",
+            "city_code": "67"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 68,
+        "fields": {
+            "city": "Valdosta",
+            "city_code": "68"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 69,
+        "fields": {
+            "city": "Vernonia",
+            "city_code": "69"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 70,
+        "fields": {
+            "city": "Victor Harbor",
+            "city_code": "70"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 71,
+        "fields": {
+            "city": "Vineland Station",
+            "city_code": "71"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 72,
+        "fields": {
+            "city": "Waterloo",
+            "city_code": "72"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 73,
+        "fields": {
+            "city": "Weirton",
+            "city_code": "73"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 74,
+        "fields": {
+            "city": "Winchester Bay",
+            "city_code": "74"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 75,
+        "fields": {
+            "city": "Yorkton",
+            "city_code": "75"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 76,
+        "fields": {
+            "city": "Abu Dhabi",
+            "city_code": "76"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 77,
+        "fields": {
+            "city": "Dubai",
+            "city_code": "77"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 78,
+        "fields": {
+            "city": "Sharjah",
+            "city_code": "78"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 79,
+        "fields": {
+            "city": "Agra",
+            "city_code": "79"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 80,
+        "fields": {
+            "city": "Ahmedabad",
+            "city_code": "80"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 81,
+        "fields": {
+            "city": "Allahabad",
+            "city_code": "81"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 82,
+        "fields": {
+            "city": "Amritsar",
+            "city_code": "82"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 83,
+        "fields": {
+            "city": "Aurangabad",
+            "city_code": "83"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 84,
+        "fields": {
+            "city": "Bangalore",
+            "city_code": "84"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 85,
+        "fields": {
+            "city": "Bhopal",
+            "city_code": "85"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 86,
+        "fields": {
+            "city": "Bhubaneshwar",
+            "city_code": "86"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 87,
+        "fields": {
+            "city": "Chandigarh",
+            "city_code": "87"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 88,
+        "fields": {
+            "city": "Chennai",
+            "city_code": "88"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 89,
+        "fields": {
+            "city": "Coimbatore",
+            "city_code": "89"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 90,
+        "fields": {
+            "city": "Dehradun",
+            "city_code": "90"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 91,
+        "fields": {
+            "city": "Faridabad",
+            "city_code": "91"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 92,
+        "fields": {
+            "city": "Ghaziabad",
+            "city_code": "92"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 93,
+        "fields": {
+            "city": "Goa",
+            "city_code": "93"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 94,
+        "fields": {
+            "city": "Gurgaon",
+            "city_code": "94"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 95,
+        "fields": {
+            "city": "Guwahati",
+            "city_code": "95"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 96,
+        "fields": {
+            "city": "Hyderabad",
+            "city_code": "96"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 97,
+        "fields": {
+            "city": "Indore",
+            "city_code": "97"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 98,
+        "fields": {
+            "city": "Jaipur",
+            "city_code": "98"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 99,
+        "fields": {
+            "city": "Kanpur",
+            "city_code": "99"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 100,
+        "fields": {
+            "city": "Kochi",
+            "city_code": "100"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 101,
+        "fields": {
+            "city": "Kolkata",
+            "city_code": "101"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 102,
+        "fields": {
+            "city": "Lucknow",
+            "city_code": "102"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 103,
+        "fields": {
+            "city": "Ludhiana",
+            "city_code": "103"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 104,
+        "fields": {
+            "city": "Mangalore",
+            "city_code": "104"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 105,
+        "fields": {
+            "city": "Mohali",
+            "city_code": "105"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 106,
+        "fields": {
+            "city": "Mumbai",
+            "city_code": "106"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 107,
+        "fields": {
+            "city": "Mysore",
+            "city_code": "107"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 108,
+        "fields": {
+            "city": "Nagpur",
+            "city_code": "108"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 109,
+        "fields": {
+            "city": "Nashik",
+            "city_code": "109"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 110,
+        "fields": {
+            "city": "New Delhi",
+            "city_code": "110"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 111,
+        "fields": {
+            "city": "Noida",
+            "city_code": "111"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 112,
+        "fields": {
+            "city": "Panchkula",
+            "city_code": "112"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 113,
+        "fields": {
+            "city": "Patna",
+            "city_code": "113"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 114,
+        "fields": {
+            "city": "Puducherry",
+            "city_code": "114"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 115,
+        "fields": {
+            "city": "Pune",
+            "city_code": "115"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 116,
+        "fields": {
+            "city": "Ranchi",
+            "city_code": "116"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 117,
+        "fields": {
+            "city": "Secunderabad",
+            "city_code": "117"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 118,
+        "fields": {
+            "city": "Surat",
+            "city_code": "118"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 119,
+        "fields": {
+            "city": "Vadodara",
+            "city_code": "119"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 120,
+        "fields": {
+            "city": "Varanasi",
+            "city_code": "120"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 121,
+        "fields": {
+            "city": "Vizag",
+            "city_code": "121"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 122,
+        "fields": {
+            "city": "Bandung",
+            "city_code": "122"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 123,
+        "fields": {
+            "city": "Bogor",
+            "city_code": "123"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 124,
+        "fields": {
+            "city": "Jakarta",
+            "city_code": "124"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 125,
+        "fields": {
+            "city": "Tangerang",
+            "city_code": "125"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 126,
+        "fields": {
+            "city": "Auckland",
+            "city_code": "126"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 127,
+        "fields": {
+            "city": "Wellington City",
+            "city_code": "127"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 128,
+        "fields": {
+            "city": "Birmingham",
+            "city_code": "128"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 129,
+        "fields": {
+            "city": "Edinburgh",
+            "city_code": "129"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 130,
+        "fields": {
+            "city": "London",
+            "city_code": "130"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 131,
+        "fields": {
+            "city": "Manchester",
+            "city_code": "131"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 132,
+        "fields": {
+            "city": "Doha",
+            "city_code": "132"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 133,
+        "fields": {
+            "city": "Cape Town",
+            "city_code": "133"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 134,
+        "fields": {
+            "city": "Inner City",
+            "city_code": "134"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 135,
+        "fields": {
+            "city": "Johannesburg",
+            "city_code": "135"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 136,
+        "fields": {
+            "city": "Pretoria",
+            "city_code": "136"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 137,
+        "fields": {
+            "city": "Randburg",
+            "city_code": "137"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 138,
+        "fields": {
+            "city": "Sandton",
+            "city_code": "138"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 139,
+        "fields": {
+            "city": "Colombo",
+            "city_code": "139"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 140,
+        "fields": {
+            "city": "Ankara",
+            "city_code": "140"
+        }
+    },
+    {
+        "model": "food.City",
+        "pk": 141,
+        "fields": {
+            "city": "Estanbul",
+            "city_code": "141"
+        }
+    }
+]
