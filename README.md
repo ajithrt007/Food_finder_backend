@@ -9,7 +9,7 @@ pip (Python package installer)
 Virtual environment (recommended)  
 
 Clone the Repository  
-git clone https://github.com/ajithrt007/Food_finder_backend.git
+git clone https://github.com/ajithrt007/Food_finder_backend.git  
 cd repository
 
 Setup Virtual Environment (Optional but Recommended)  
