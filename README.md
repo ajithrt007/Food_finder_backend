@@ -8,8 +8,8 @@ Python (3.x recommended)
 pip (Python package installer)  
 Virtual environment (recommended)  
 
-Clone the Repository
-git clone https://github.com/username/repository.git
+Clone the Repository  
+git clone https://github.com/ajithrt007/Food_finder_backend.git
 cd repository
 
 Setup Virtual Environment (Optional but Recommended)  
